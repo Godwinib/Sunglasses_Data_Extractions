@@ -1,0 +1,177 @@
+[
+  {
+    "Brand": "Ray-Ban",
+    "Product_Name": "RB7047",
+    "Original_Price": 176.0,
+    "Current_Price": 176.0,
+    "Discount": null
+  },
+  {
+    "Brand": "Oakley",
+    "Product_Name": "Plank 2.0",
+    "Original_Price": 187.0,
+    "Current_Price": 187.0,
+    "Discount": null
+  },
+  {
+    "Brand": null,
+    "Product_Name": null,
+    "Original_Price": null,
+    "Current_Price": null,
+    "Discount": null
+  },
+  {
+    "Brand": "Oakley",
+    "Product_Name": "Socket 5.5",
+    "Original_Price": null,
+    "Current_Price": null,
+    "Discount": null
+  },
+  {
+    "Brand": "Oakley",
+    "Product_Name": "Holbrook RX",
+    "Original_Price": null,
+    "Current_Price": null,
+    "Discount": null
+  },
+  {
+    "Brand": "Oakley",
+    "Product_Name": "Wheel House",
+    "Original_Price": 242.0,
+    "Current_Price": 242.0,
+    "Discount": null
+  },
+  {
+    "Brand": "Ray-Ban",
+    "Product_Name": "RB8908",
+    "Original_Price": 276.0,
+    "Current_Price": 276.0,
+    "Discount": null
+  },
+  {
+    "Brand": "Ray-Ban",
+    "Product_Name": "RB7229",
+    "Original_Price": null,
+    "Current_Price": null,
+    "Discount": "30%"
+  },
+  {
+    "Brand": "Oakley",
+    "Product_Name": "Pitchman R Carbon - Alternate Fit",
+    "Original_Price": 297.0,
+    "Current_Price": 297.0,
+    "Discount": null
+  },
+  {
+    "Brand": "Ray-Ban",
+    "Product_Name": "RB6645",
+    "Original_Price": 210.0,
+    "Current_Price": 210.0,
+    "Discount": null
+  },
+  {
+    "Brand": "Ray-Ban",
+    "Product_Name": "RB7260",
+    "Original_Price": 210.0,
+    "Current_Price": 210.0,
+    "Discount": null
+  },
+  {
+    "Brand": "Ray-Ban",
+    "Product_Name": "RB5154 Clubmaster",
+    "Original_Price": null,
+    "Current_Price": null,
+    "Discount": null
+  },
+  {
+    "Brand": "Persol",
+    "Product_Name": "PO3189V",
+    "Original_Price": null,
+    "Current_Price": null,
+    "Discount": "50%"
+  },
+  {
+    "Brand": "Burberry",
+    "Product_Name": "BE2315",
+    "Original_Price": null,
+    "Current_Price": null,
+    "Discount": "50%"
+  },
+  {
+    "Brand": "Persol",
+    "Product_Name": "PO3297V",
+    "Original_Price": null,
+    "Current_Price": null,
+    "Discount": null
+  },
+  {
+    "Brand": "Versace",
+    "Product_Name": "VE1285",
+    "Original_Price": null,
+    "Current_Price": null,
+    "Discount": "30%"
+  },
+  {
+    "Brand": "Gucci",
+    "Product_Name": "GG1340O",
+    "Original_Price": null,
+    "Current_Price": null,
+    "Discount": "15%"
+  },
+  {
+    "Brand": "Gucci",
+    "Product_Name": "GG1221O",
+    "Original_Price": null,
+    "Current_Price": null,
+    "Discount": "15%"
+  },
+  {
+    "Brand": "Kate Spade",
+    "Product_Name": "Charlee",
+    "Original_Price": null,
+    "Current_Price": null,
+    "Discount": "30%"
+  },
+  {
+    "Brand": "Kate Spade",
+    "Product_Name": "Lucyann",
+    "Original_Price": null,
+    "Current_Price": null,
+    "Discount": "30%"
+  },
+  {
+    "Brand": "Burberry",
+    "Product_Name": "BE2417",
+    "Original_Price": null,
+    "Current_Price": null,
+    "Discount": "30%"
+  },
+  {
+    "Brand": "Dolce & Gabbana",
+    "Product_Name": "DG3415",
+    "Original_Price": null,
+    "Current_Price": null,
+    "Discount": "30%"
+  },
+  {
+    "Brand": "Versace",
+    "Product_Name": "VE3373U",
+    "Original_Price": null,
+    "Current_Price": null,
+    "Discount": "30%"
+  },
+  {
+    "Brand": "RALPH by Ralph Lauren",
+    "Product_Name": "RA7158U",
+    "Original_Price": null,
+    "Current_Price": null,
+    "Discount": "30%"
+  },
+  {
+    "Brand": "Ray-Ban",
+    "Product_Name": "RB7140",
+    "Original_Price": 237.0,
+    "Current_Price": 237.0,
+    "Discount": null
+  }
+]
