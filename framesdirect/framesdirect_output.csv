@@ -1,26 +1,2476 @@
 Brand,Product_Name,Original_Price,Current_Price,Discount
-Ray-Ban,RB7047,176.0,176.0,null
-Oakley,Plank 2.0,187.0,187.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
 null,null,null,null,null
-Oakley,Socket 5.5,null,null,null
 Oakley,Holbrook RX,null,null,null
-Oakley,Wheel House,242.0,242.0,null
-Ray-Ban,RB8908,276.0,276.0,null
-Ray-Ban,RB7229,null,null,30%
-Oakley,Pitchman R Carbon - Alternate Fit,297.0,297.0,null
-Ray-Ban,RB6645,210.0,210.0,null
-Ray-Ban,RB7260,210.0,210.0,null
-Ray-Ban,RB5154 Clubmaster,null,null,null
-Persol,PO3189V,null,null,50%
-Burberry,BE2315,null,null,50%
-Persol,PO3297V,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
 Versace,VE1285,null,null,30%
 Gucci,GG1340O,null,null,15%
-Gucci,GG1221O,null,null,15%
-Kate Spade,Charlee,null,null,30%
 Kate Spade,Lucyann,null,null,30%
-Burberry,BE2417,null,null,30%
+Burberry,BE2420,null,null,30%
 Dolce & Gabbana,DG3415,null,null,30%
-Versace,VE3373U,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
 RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
 Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
+Oakley,Barrelhouse,null,null,null
+Oakley,Socket 5.5,227.0,227.0,null
+null,null,null,null,null
+Oakley,Holbrook RX,null,null,null
+Oakley,Enigma Mass,255.0,255.0,null
+Ray-Ban,RB6348D,null,null,30%
+Ray-Ban,RB3925V,null,null,30%
+Ray-Ban,RB5446,186.0,186.0,null
+Ray-Ban,RB8780D,276.0,276.0,null
+Ray-Ban,RB7017,222.0,222.0,null
+Ray-Ban,RB5154 Clubmaster,222.0,222.0,null
+Persol,PO3263V,null,null,null
+Versace,VE1285,null,null,30%
+Gucci,GG1340O,null,null,15%
+Kate Spade,Lucyann,null,null,30%
+Burberry,BE2420,null,null,30%
+Dolce & Gabbana,DG3415,null,null,30%
+Versace,VE1175B,null,null,30%
+Coach,HC6065,null,null,30%
+Giorgio Armani,AR7202,null,null,30%
+RALPH by Ralph Lauren,RA7158U,null,null,30%
+Ray-Ban,RB7047,176.0,176.0,null
+Ray-Ban,RB7140,237.0,237.0,null
+Ray-Ban,RB6335,210.0,210.0,null
+Ray-Ban,RB5268,176.0,176.0,null
